@@ -1,1 +1,2 @@
-# -MyGitExamProject
+# MyGitExamProject
+Petit projet d'examen Git.
